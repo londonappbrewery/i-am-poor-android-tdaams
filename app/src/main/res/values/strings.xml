@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
+    <string name="txtbx_title">I am broke but not poor. </string>
+    <string name="pictureDescr">Picture of coal</string>
 </resources>
